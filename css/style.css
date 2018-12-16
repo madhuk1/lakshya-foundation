@@ -2305,7 +2305,6 @@ button:focus {
 /*============== footer-area css ===============*/
 .footer-area {
   background: #04091e;
-  padding: 145px 0px;
 }
 
 .single-footer-widget p {
@@ -2405,7 +2404,8 @@ button:focus {
 }
 
 .footer-bottom {
-  padding-top: 46px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .footer-bottom .footer-text a {
