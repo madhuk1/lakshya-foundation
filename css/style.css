@@ -454,21 +454,23 @@ button:focus {
 
 .home_banner_area .banner_inner {
   position: relative;
-  margin-top: -36px;
+  margin-top: -70px;
   overflow: hidden;
   width: 100%;
   min-height: 754px;
 }
 
 .home_banner_area .banner_inner .overlay {
-  background: url(../img/banner/home-banner1.jpg) no-repeat scroll center center;
+  background: url(../img/banner/lakhya-new1.jpg) no-repeat scroll center center;
   position: absolute;
   left: 0;
   right: 0;
   top: 0;
-  height: 75%;
+  height: 85%;
   bottom: 0;
   z-index: -1;
+   background-size: 100% 80%;
+
 }
 
 .home_banner_area .banner_inner .banner_content {
@@ -2156,7 +2158,7 @@ button:focus {
   height: 230px;
   width: 230px;
 }
-.mx-auto h4{
+/*.mx-auto h4{
   text-align: center;
   color: #000;
 }
@@ -2244,7 +2246,7 @@ button:focus {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
-}
+}*/
 
 /* End Testimonials Area css
 ============================================================================================ */
@@ -2257,11 +2259,10 @@ button:focus {
   margin-bottom: 15px;
 
 }
-
 .feature_item-1 h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #000;
+  /*color: #000;*/
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   margin-bottom: 15px;
